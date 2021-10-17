@@ -1,4 +1,4 @@
-let amazon='amazing'
+const amazon='amazing'
 if(amazon==='amazing'){
     alert('amazon shopping is fun')
 }
